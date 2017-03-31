@@ -1,3 +1,6 @@
+https://sambeauwang.github.io/2017/03/31/改善Python程序-描述符机制和属性机制/
+https://sambeauwang.github.io/2017/03/31/改善python程序-元类编程/
+https://sambeauwang.github.io/2017/03/31/改善Python程序-Python对象协议/
 https://sambeauwang.github.io/2017/03/22/结构型模式/
 https://sambeauwang.github.io/2017/03/22/创建型模式/
 https://sambeauwang.github.io/2017/03/22/行为型模式-2/
@@ -5,6 +8,3 @@ https://sambeauwang.github.io/2017/03/22/行为型模式-1/
 https://sambeauwang.github.io/2017/03/22/软件设计模式/
 https://sambeauwang.github.io/2017/03/20/改善Python程序-Unicode和编码/
 https://sambeauwang.github.io/2017/03/20/改善Python程序-字典-列表-集合/
-https://sambeauwang.github.io/2017/03/20/改善Python程序-编程惯用用法/
-https://sambeauwang.github.io/2017/03/01/基于1-0对0-6的补充/
-https://sambeauwang.github.io/2017/02/27/基于0-6上对0-2的补充/
